@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]([https://rishavchanda.io](https://github.com/kailash19961996))
 <h1 align="center">Hi 👋, I'm Kailash</h1>
 <h3 align="center">Machine Learning and AI engineer</h3>
 
