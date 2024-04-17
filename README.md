@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **MLOPs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kailash19961996](https://github.com/kailash19961996](https://github.com/kailash19961996?tab=repositories)
-
 - 📄 Get to know me more at [https://kailashsubramaniyam.com/](https://kailashsubramaniyam.com/)
 
 - ⚡ Fun fact **I think, we live in a flat earth**
