@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kailash19961996&label=Profile%20views&color=0e75b6&style=flat" alt="kailash19961996" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kailash19961996" alt="kailash19961996" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/kailash19961996/kailash19961996/assets/123597753/4d27cd21-4fe7-4ca1-bff2-c56889c62c7c">
@@ -10,12 +8,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kailash19961996](https://github.com/kailash19961996)
 
-- 📫 How to reach me **kylasben@gmail.com**
-
 - 📄 Know about my experiences [https://kailashsubramaniyam.com/](https://kailashsubramaniyam.com/)
 
 - ⚡ Fun fact **I think, we live in a flat earth**
-
+- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kailash19961996&label=Profile%20views&color=0e75b6&style=flat" alt="kailash19961996" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kailash kumar balasubramaniyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kailash kumar balasubramaniyam" height="30" width="40" /></a>
