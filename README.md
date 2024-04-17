@@ -11,7 +11,6 @@
 - 📄 Know about my experiences [https://kailashsubramaniyam.com/](https://kailashsubramaniyam.com/)
 
 - ⚡ Fun fact **I think, we live in a flat earth**
-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kailash19961996&label=Profile%20views&color=0e75b6&style=flat" alt="kailash19961996" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
