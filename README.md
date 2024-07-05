@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on [Generative AI projects](https://github.com/kailash19961996/London-Issues-Tracker-APP)
 
-- 🌱 I’m currently workingo on [https://kailashsubramaniyam.com/](https://kailashsubramaniyam.com/)
-
 - 📄 Get to know me more at [https://kailashsubramaniyam.com/](https://kailashsubramaniyam.com/)
 
 - ⚡ Fun fact **I think, we live in a flat earth**
