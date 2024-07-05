@@ -2,9 +2,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/kailash19961996/kailash19961996/assets/123597753/4d27cd21-4fe7-4ca1-bff2-c56889c62c7c">
 
-- 🔭 I’m currently working on [Generative AI projects](https://github.com/kailash19961996/Multi_Modal_Vision_transformers)
+- 🔭 I’m currently working on [Generative AI projects](https://github.com/kailash19961996/London-Issues-Tracker-APP)
 
-- 🌱 I’m currently learning **MLOPs**
+- 🌱 I’m currently workingo on [https://kailashsubramaniyam.com/](https://kailashsubramaniyam.com/)
 
 - 📄 Get to know me more at [https://kailashsubramaniyam.com/](https://kailashsubramaniyam.com/)
 
