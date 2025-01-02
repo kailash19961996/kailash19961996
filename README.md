@@ -9,7 +9,6 @@
 - ⚡ Fun fact **I think, we live in a flat earth**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kailash19961996&label=Profile%20views&color=0e75b6&style=flat" alt="kailash19961996" /> </p>
 
-<p><img align="center" alt="Coding" width="350" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=kailash19961996&" alt="kailash19961996" /></p>
 
 
 
