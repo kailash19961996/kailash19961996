@@ -1,6 +1,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kailash19961996" alt="kailash19961996" /></a> </p>
 
-<img align="right" alt="Coding" width="300" src="https://github.com/kailash19961996/kailash19961996/assets/123597753/4d27cd21-4fe7-4ca1-bff2-c56889c62c7c">
+<img align="right" alt="Coding" width="250" src="https://github.com/kailash19961996/kailash19961996/assets/123597753/4d27cd21-4fe7-4ca1-bff2-c56889c62c7c">
 
 - 🔭 I’m currently working on a bird detector app leveraging Raspberry Pi and computer vision to identify bird species in real-time.
 
