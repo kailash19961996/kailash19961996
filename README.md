@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://github.com/kailash19961996/kailash19961996/assets/123597753/4d27cd21-4fe7-4ca1-bff2-c56889c62c7c">
 
-- 🔭 I’m currently working on a bird detector app leveraging Raspberry Pi and computer vision to identify bird species in real-time.
+- 🔭 I’m currently working on a bird detector app leveraging Raspberry Pi, AI agents and computer vision to identify bird species in real-time and send personal notifications.
 
 - 📄 Get to know me more at [kailash.london](https://kailash.london/#home)
 
