@@ -4,10 +4,7 @@
 
 - 🔭 I’m currently working on a bird detector app leveraging Raspberry Pi, AI agents and computer vision to identify bird species in real-time and send personal notifications.
 
-- 📄 Get to know me more at [kailash.london](https://kailash.london/#home)
-
 - ⚡ Fun fact - **I think, we live in a flat earth**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kailash19961996&label=Profile%20views&color=0e75b6&style=flat" alt="kailash19961996" /> </p>
 
 
 
