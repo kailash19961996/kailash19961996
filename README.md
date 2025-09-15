@@ -1,6 +1,6 @@
-- I’m currently working on a bird detector app leveraging Raspberry Pi, AI agents and computer vision to identify bird species in real-time and send personal notifications. All just for fun
+# A-Mail **A full stack, modern, AI mailbox deployed fully on AWS for firms handling heavy client communication.**
 
-- Fun fact - **I like pineapple in my pizza**
+Originally prototyped for my current firm, I reimagined this AI infused mailbox to handle all client-side communication (direct emails, website form submissions, client portal enquiries) with sleek and secure AI integration and fully deployed on AWS. This system has reduced time spent on client interaction by <span style="color:red; font-weight:bold;">nearly 70%.</span>. Try it yourself at [www.A-Mail.live](https://www.a-mail.live)
 
 
 
